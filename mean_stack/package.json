@@ -1,0 +1,17 @@
+{
+  "name": "mean_stack",
+  "version": "1.0.0",
+  "description": "Food store implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nandu S Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.2"
+  }
+}
